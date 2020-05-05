@@ -13,3 +13,7 @@
 
 # Gameplay
 ![](gameplay.gif)  
+
+# How to play  
+* Configure the digits, speed and time steps from the table given above.  
+* Press Space to play.
